@@ -1,0 +1,10 @@
+.env
+.venv/
+.idea/
+__pycache__/
+*.pyc
+commits.db
+moderation_data.json
+bot_settings.json
+screenshots/*
+!screenshots/.gitkeep
